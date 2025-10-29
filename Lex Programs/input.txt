@@ -1,0 +1,9 @@
+int a=100,b=20;
+//initialize a and b
+int c=a/(b+2);
+/*check condition
+ */
+if(c<5){
+//multiply and return
+return a+b;
+}
